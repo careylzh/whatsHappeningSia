@@ -1,5 +1,10 @@
 import { Formik, Form, Field, ErrorMessage } from "formik";
-
+import dotenv from "dotenv";
+dotenv.config();
+const streetViewURL =
+  "https://www.google.com/maps/embed/v1/MAP_MODE?key=" +
+  process.env.API_KEY +
+  "&q=Eiffel+Tower,Paris+France";
 const DataForm = () => (
   <>
     <Formik
@@ -76,6 +81,15 @@ const DataForm = () => (
         </Form>
       )}
     </Formik>
+    <div>
+      <iframe
+        title="Insert Postal Code for a pleasant Surprise!"
+        width="450"
+        height="250"
+        frameborder="0"
+        src={streetViewURL}
+      />
+    </div>
   </>
 );
 
