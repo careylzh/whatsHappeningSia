@@ -1,15 +1,15 @@
-# whatsHappeningSia
+# What's Happening Sia?
 A Very Singaporean App
+![Prototype video demo](https://drive.google.com/file/d/1nB97KfrttSjXW3yWjxoMxW8KAmnLbMVV/view?usp=sharing)
 
 Members:
-Carey Lai
-Wu Lixiang
 Padmanaban(iPad)
+Wu Lixiang
 Yin Ruoyan
+Carey Lai
 
 ## Motivation
 In an ambitious attempt to improve the quality of life of Singaporeans while they are overseas (either for short term or long term), whatsHappeningSia is an interactive app which allows overseas Singaporeans to connect over their favourite activities, and be reminded of Singaporean slang in a place where Singlish isn't used.
-
 
 ## Feature 1: Singlishfy
 - If you miss Singaporean slang, feel free to have a go at our chatbot and be reminded of so-singaporean words.
