@@ -23,9 +23,6 @@ const Navbar = () => {
           <NavLink to="/news-feed" activeStyle>
             News Feed
           </NavLink>
-          <NavLink to="/chat" activeStyle>
-            Chat
-          </NavLink>
         </NavMenu>
       </Nav>
     </>

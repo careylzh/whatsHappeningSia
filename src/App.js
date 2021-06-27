@@ -19,8 +19,8 @@ function App() {
         <Route path="/locate-me" component={LocateMe} />
         <Route path="/news-feed" component={NewsFeed} />
         <Route path="/find-kaki" component={FindKaki} />
-        <Route path="/chat" component={Chat} />
       </Switch>
+      <Chat />
     </Router>
   );
 }
