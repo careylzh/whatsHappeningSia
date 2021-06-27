@@ -7,6 +7,7 @@ import About from "./pages/about";
 import LocateMe from "./pages/locateMe";
 import NewsFeed from "./pages/newsFeed";
 import FindKaki from "./pages/findKaki/findKaki";
+import Chat from "./pages/chat/chat";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/locate-me" component={LocateMe} />
         <Route path="/news-feed" component={NewsFeed} />
         <Route path="/find-kaki" component={FindKaki} />
+        <Route path="/chat" component={Chat} />
       </Switch>
     </Router>
   );
