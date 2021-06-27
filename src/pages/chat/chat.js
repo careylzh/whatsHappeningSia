@@ -11,7 +11,7 @@ function Chat() {
   }, []);
 
   const handleNewUserMessage = (newMessage) => {
-    var singlishPostfix = ["lahh", "leh", "bodoh"];
+    var singlishPostfix = ["lahh", "leh", "siannnn"];
     var singlishPrefix = ["eh", "walao"];
     var randomSinglish =
       singlishPrefix[Math.floor(Math.random() * singlishPrefix.length)] +
