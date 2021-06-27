@@ -17,6 +17,14 @@ In an ambitious attempt to improve the quality of life of Singaporeans while the
 - Development: Key in a casual article and get your news article singlish-fied! See `singlisfy_algo` for the python script and test it out yourself!
 ![Singlisfy python prototype](https://github.com/careylzh/whatsHappeningSia/blob/main/singlishfy_algo/Screenshot.png)
 
+## Feature 2: Find Kaki!
+- Search for people with similar interested and leave a like to let them know you're interested in joining them for the activity!
+
+## Stack
+- Frontend: React.js, react-chat-widget
+- Backend: jsonbin.io
+- Helper functions/algorithmic testing: native python 
+
 TODO (deliverables and ideation):
 - [x] clean/prettify slide deck (Lx)
 - [x] readme (bonus)
